@@ -70,7 +70,6 @@ Below is a list of all **topics** covered in this course:
 ## 📌 Note
 
 This repository is managed by a student for academic purposes.  
-All rights belong to their respective authors and the course instructor.
 
 Feel free to fork, star, and contribute if you're taking the course or revising RL!
 
