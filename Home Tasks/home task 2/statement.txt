@@ -1,0 +1,5 @@
+Consider example 3.5 of textbook. Find the value of each state using dynamic programming. Do at least 5 iterations for each state. Then write a piece of code that finds the value of each state using dynamic programming until convergence. You may consider 0.1 as threshold value, meaning that if the maximum difference in the successive values of each state is less than 0.1, you assume convergence. The code must print the value of each state at each iteration. The code must return the number of iterations till the convergence. 
+
+You have to upload the scanned images of your handwritten task as well as source code along with screenshot of its execution. Please pay attention to the deadline mentioned. 
+
+Thanks

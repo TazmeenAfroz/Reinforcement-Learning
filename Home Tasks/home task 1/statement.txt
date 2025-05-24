@@ -1,0 +1,3 @@
+The example MDP has four states A,B,C and D. Each state has equally probable four actions left, right, bottom up, Each action bumping into wall will result in remaining in same state in which action is take, otherwise it will take agent to a new state according to the action. Each action from each state results in reward 0 unless and until that action takes agent to state B in which case reward is +5. Consider the discounting factor of 0.9.
+
+The task must be done in handwritten form. You can take help from online linear system equations solver to solve the simultaneous linear equations. Also compare the value of a state with each of the four values of the actions taken in that state and determine the relationship between them.
