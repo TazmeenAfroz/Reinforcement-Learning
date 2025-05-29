@@ -1,6 +1,6 @@
 # Reinforcement Learning Course – Spring 2025 🎓
 
-Welcome to the official GitHub repository for the **Reinforcement Learning** course at FAST NUCES, Spring 2025.  
+Welcome to the GitHub repository for the **Reinforcement Learning** course at FAST NUCES, Spring 2025.  
 This repo contains links, notes, and material related to the lecture series.
 
 📺 **YouTube Playlist**:  
